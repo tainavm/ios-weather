@@ -10,5 +10,5 @@ API:
 [Open Weather](https://openweathermap.org/forecast5#5days)
 
 ### Imagens 
-![Screenshot](screenshot1.png  =500x500)
-![Screenshot](screenshot2.png =500x500)
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
